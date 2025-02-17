@@ -80,6 +80,20 @@ div.card {
 	flex-wrap: wrap;
 }
 
+.parentpanel {
+    display: flex;
+	justify-content: space-evenly;
+	margin: 0 -5px;
+	flex-wrap: wrap;
+}
+
+div.panel {
+    width: 320px;
+    background-color: #e0ebdc;
+    text-align: left;
+    padding: 20px;
+}
+
 #img-bg {
     width: 100%;
 }
