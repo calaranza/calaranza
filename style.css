@@ -55,10 +55,10 @@ body {
 
 div.card {
     width: 260px;
-	background-color: #34495e;
+	background-color: #a7afa7;
 	text-align: left;
 	border-radius: 10px;
-	border:3px solid #5d6d7e;
+	border:3px solid #5b5f54;
 	padding:20px;
 	margin: 10px 5px;
 }
