@@ -39,6 +39,11 @@ body {
     height: 535px;
 }
 
+#sideprofile-img {
+    text-align: center;
+    margin: auto;
+}
+
 .sideprofile-info {
     text-align: center;
     margin: auto;
@@ -93,6 +98,6 @@ div.card {
         justify-content: space-evenly;
         margin: 0 -5px;
         flex-wrap: wrap;
-        height: 330px;
+        height: 310px;
     }
 }
