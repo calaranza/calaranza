@@ -7,7 +7,6 @@ body {
 .navbar {
     width: 100%;
     background-color: #a7afa7;
-    color: 	#232d22;
     text-align: center;
     justify-content: space-evenly;
     padding: 4px 0;
@@ -20,6 +19,7 @@ body {
     display: inline-block;
     padding: 15px 10px;
     background-color: #a7afa7;
+    color: 	#232d22;
 }
 
 .navbar a:hover {
