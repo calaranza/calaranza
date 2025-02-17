@@ -4,7 +4,7 @@ body {
 
 .navbar {
     width: 100%;
-    background-color: grey;
+    background-color: red;
     text-align: center;
     justify-content: space-evenly;
 }
