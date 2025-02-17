@@ -90,7 +90,7 @@ div.activity-cards {
 	margin: 10px 5px;
 }
 
-..activity-parentcards {
+.activity-parentcards {
     display: flex;
 	justify-content: space-evenly;
 	margin: 0 -5px;
