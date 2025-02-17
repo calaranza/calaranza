@@ -7,6 +7,7 @@ body {
     background-color: red;
     text-align: center;
     justify-content: space-evenly;
+    display: flex;
     padding: 4px 0;
 }
 
