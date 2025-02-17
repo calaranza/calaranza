@@ -15,11 +15,9 @@ body {
 }
 
 .side-profile {
-  
-    height: 530px;
     background-color: gray;
     text-align: center;
-    padding: 10px;
+    padding: 10px 15px;
 }
 
 .main-body {
