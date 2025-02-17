@@ -30,10 +30,6 @@ body {
 }
 
 @media (max-width: 770px) {
-    .body {
-        padding: 1px;
-    }
-
     .body-section {
         display: block;
     }
