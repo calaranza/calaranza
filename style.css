@@ -39,6 +39,10 @@ body {
     height: 535px;
 }
 
+.sideprofile-info {
+    vertical-align: middle;
+}
+
 .main-body {
     width: 80%;
     background-color: #e0ebdc;
