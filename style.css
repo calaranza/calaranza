@@ -70,6 +70,10 @@ div.card {
 	flex-wrap: wrap;
 }
 
+#img-bg {
+    width: 100%;
+}
+
 @media (max-width: 780px) {
     .body-section {
         display: block;
