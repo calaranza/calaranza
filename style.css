@@ -94,9 +94,9 @@ div.panel {
     padding: 20px;
 }
 
-div.img-panel {
+div.img-panel img {
     padding: 20px;
-    width: 40%;
+    width: 45%;
 }
 
 #img-bg {
