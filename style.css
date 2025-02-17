@@ -31,7 +31,7 @@ body {
 
 @media (max-width: 770px) {
     .body {
-        padding: 6px;
+        padding: 1px;
     }
 
     .body-section {
