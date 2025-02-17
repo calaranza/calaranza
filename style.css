@@ -18,6 +18,10 @@ body {
     text-align: center;
     display: inline-block;
     padding: 15px 10px;
+    background-color: #a7afa7;
+}
+
+.navbar a:hover {
     background-color: beige;
 }
 
