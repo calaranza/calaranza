@@ -84,5 +84,9 @@ div.card {
     }
     .side-profile {
         text-align: center;
+        display: flex;
+        justify-content: space-evenly;
+        margin: 0 -5px;
+        flex-wrap: wrap;
     }
 }
