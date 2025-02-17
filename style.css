@@ -38,6 +38,10 @@ body {
     margin: 0 10px 0 10px;
 }
 
+.main-content {
+    padding: 18px;
+}
+
 @media (max-width: 780px) {
     .body-section {
         display: block;
