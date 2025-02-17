@@ -97,6 +97,23 @@ div.activity-cards {
 	flex-wrap: wrap;
 }
 
+div.research-cards {
+    width: 340px;
+	background-color: #a7afa7;
+	text-align: center;
+	border-radius: 10px;
+	border:3px solid #5b5f54;
+	padding:20px;
+	margin: 10px 5px;
+}
+
+.research-parentcards {
+    display: flex;
+	justify-content: space-evenly;
+	margin: 0 -5px;
+	flex-wrap: wrap;
+}
+
 #img-bg {
     width: 100%;
 }
