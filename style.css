@@ -40,7 +40,8 @@ body {
 }
 
 .main-content {
-    padding: 20px;
+    padding: 20px 30px;
+    
 }
 
 @media (max-width: 780px) {
