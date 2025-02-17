@@ -94,6 +94,10 @@ div.panel {
     padding: 20px;
 }
 
+div.img-panel {
+    padding: 20px;
+}
+
 #img-bg {
     width: 100%;
 }
