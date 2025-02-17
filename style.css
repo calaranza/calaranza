@@ -1,5 +1,6 @@
 body {
     font-family: "Noto Sans", serif;
+    background-color: #5b5f54;
     padding: 30px;
 }
 
@@ -26,7 +27,8 @@ body {
 }
 
 .side-profile {
-    background-color: gray;
+    background-color: #efeae4;
+    border: 2px solid #898d7c;
     text-align: center;
     padding: 10px 15px;
     height: 535px;
@@ -34,7 +36,8 @@ body {
 
 .main-body {
     width: 80%;
-    background-color: grey;
+    background-color: #efeae4;
+    border: 2px solid #898d7c;
     text-align: center;
     margin: 0 10px 0 10px;
     float: right;
