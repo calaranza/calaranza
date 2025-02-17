@@ -22,3 +22,19 @@
     background-color: grey;
     text-align: center;
 }
+
+@media (max-width: 770px) {
+    .body-section {
+        display: block;
+    }
+    .main-body {
+        width: 100%;
+        height: 340px;
+        margin: 10px;
+    }
+    .side-profile {
+        width: 100%;
+        height: 70px;
+        text-align: center;
+    }
+}
