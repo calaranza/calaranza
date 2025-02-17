@@ -19,6 +19,7 @@ body {
     height: 530px;
     background-color: gray;
     text-align: center;
+    padding: 10px;
 }
 
 .main-body {
